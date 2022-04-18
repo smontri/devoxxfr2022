@@ -5,7 +5,7 @@ variable "cluster_name" {
 
 variable "region" {
   type    = string
-  default = "eu-west-3"
+  default = "eu-central-1"
 }
 variable "controller_count" {
   type    = number
